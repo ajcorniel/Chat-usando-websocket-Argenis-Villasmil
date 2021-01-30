@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="WebSockets" default="default" basedir=".">
+    <description>Construye, prueba y ejecuta el proyecto..</description>
+    <import file="nbproject/build-impl.xml"/>
+    
+</project>
